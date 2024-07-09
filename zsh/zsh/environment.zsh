@@ -9,7 +9,6 @@ export LANGUAGE="en_US"
 export EDITOR=/usr/bin/nvim
 export VISUAL=/usr/bin/nvim
 
-
 # let zsh-autosuggestions work
 export SAVEHIST=100000
 export HISTSIZE=100000
